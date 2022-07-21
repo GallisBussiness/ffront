@@ -1,0 +1,1 @@
+export const imagestore = "//localhost:3100/uploads/";

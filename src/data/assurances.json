@@ -1,0 +1,497 @@
+﻿ [
+        {
+            "name": "IPM ASCOMA"
+        },
+        {
+            "name": "IPM BICIS"
+        },
+        {
+            "name": "IPM BOKK DOLE"
+        },
+        {
+            "name": "IPM CCMR (MUTUELLE DES RETRAITES DE LA SAR)"
+        },
+        {
+            "name": "IPM COTONNIERE DU CAP VERT"
+        },
+        {
+            "name": "IPM CONTORSIUM D’ENTREPRISE (CDE)"
+        },
+        {
+            "name": "IPM CREDIT MUTUEL DU SENEGAL"
+        },
+        {
+            "name": "IPM COMPAGNIE SAHELIENNE D’ENTREPRISE (CSE)"
+        },
+        {
+            "name": "IPM EIFFAGE"
+        },
+        {
+            "name": "IPM EGLISE EVANGELIQUE LUTHERIENNE DU SENEGAL(EELS)"
+        },
+        {
+            "name": "IPM EJL AFRIQUE"
+        },
+        {
+            "name": "IPM FILFILI"
+        },
+        {
+            "name": "IPM GENERAL D’ENTREPRISE"
+        },
+        {
+            "name": "IPM HOTELLIERE DU CAP VERT"
+        },
+        {
+            "name": "IPM IPRES"
+        },
+        {
+            "name": "IPM KER GU MAG"
+        },
+        {
+            "name": "IPM MBAARUM KOOLUTE"
+        },
+        {
+            "name": "IPM MBOOLO JAPOO"
+        },
+        {
+            "name": "IPM MERIDIEN PRESIDENT(KING FAD)"
+        },
+        {
+            "name": "IPM NAPI"
+        },
+        {
+            "name": "IPM NDIMBAL"
+        },
+        {
+            "name": "IPM NJABOOT"
+        },
+        {
+            "name": "IPM Office Diocésain Enseignement Catholique (ODEC)"
+        },
+        {
+            "name": "IPM PARGEST"
+        },
+        {
+            "name": "IPM PHOSPHATES DE THIES"
+        },
+        {
+            "name": "IPM PHOSPHATES DE TAIBA"
+        },
+        {
+            "name": "IPM PROFESSIONS LIBERALES"
+        },
+        {
+            "name": "IPM PROFIL"
+        },
+        {
+            "name": "IPM ROCHETTE"
+        },
+        {
+            "name": "IPM SAR"
+        },
+        {
+            "name": "IPM SAGAM"
+        },
+        {
+            "name": "IPM SANTE 2000"
+        },
+        {
+            "name": "IPM SEN INTERIM"
+        },
+        {
+            "name": "IPM SENELEC"
+        },
+        {
+            "name": "IPM SENTENAC"
+        },
+        {
+            "name": "IPM SGBS"
+        },
+        {
+            "name": "IPM SIA"
+        },
+        {
+            "name": "IPM SIPS"
+        },
+        {
+            "name": "IPM SODEFITEX"
+        },
+        {
+            "name": "IPM SONES"
+        },
+        {
+            "name": "IPM SUNEOR EID"
+        },
+        {
+            "name": "IPM SUNEOR SIEGE"
+        },
+        {
+            "name": "IPM SYPAOA"
+        },
+        {
+            "name": "IPM TRANSIT"
+        },
+        {
+            "name": "IPM TRANSPORT AERIEN"
+        },
+        {
+            "name": "IPM WER AK DIAM"
+        },
+        {
+            "name": "IPM WER GI YARAM"
+        },
+        {
+            "name": "IPM AFRIC MANAGEMENT"
+        },
+        {
+            "name": "IPM – AGEMAC"
+        },
+        {
+            "name": "IPM CLUB ALDIANA"
+        },
+        {
+            "name": "IPM AMA SENEGAL"
+        },
+        {
+            "name": "IPM ANCAR"
+        },
+        {
+            "name": "IPM AIR NOUVEL"
+        },
+        {
+            "name": "IPM B.H.S"
+        },
+        {
+            "name": "IPM B.I.C.I.S"
+        },
+        {
+            "name": "B.L Harbert Int. Sen. Branch"
+        },
+        {
+            "name": "IPM BUHAN TEISSEIRE"
+        },
+        {
+            "name": "IPM C.B.A.O"
+        },
+        {
+            "name": "IPM CCBM"
+        },
+        {
+            "name": "IPM CREDIT DU SENEGAL"
+        },
+        {
+            "name": "IPM CREDIT MUTUEL DU SENEGAL"
+        },
+        {
+            "name": "IPM COFRISEN"
+        },
+        {
+            "name": "IPM CONGAD"
+        },
+        {
+            "name": "IPM CSE"
+        },
+        {
+            "name": "IPCSS"
+        },
+        {
+            "name": "IPDEMDIK"
+        },
+        {
+            "name": "IPDIPROM"
+        },
+        {
+            "name": "IPEIFFAG"
+        },
+        {
+            "name": "IPM EJL AFRIQUE"
+        },
+        {
+            "name": "IPM FADIOU"
+        },
+        {
+            "name": "IPFFCV"
+        },
+        {
+            "name": "IPM FILFILI"
+        },
+        {
+            "name": "IPM FONDATION"
+        },
+        {
+            "name": "IPM SEN INTERIM"
+        },
+        {
+            "name": "IPM JAMM REKK"
+        },
+        {
+            "name": "IPM KER GU MAC"
+        },
+        {
+            "name": "IPM LABOREX"
+        },
+        {
+            "name": "IPM MAPATHE NDIOUCK"
+        },
+        {
+            "name": "IPM MARITALIA"
+        },
+        {
+            "name": "IPM MAT FORCE"
+        },
+        {
+            "name": "IPM MERIDIEN PRESIDENT"
+        },
+        {
+            "name": "IPM GROUPE MIMRAN"
+        },
+        {
+            "name": "IPM M.T.O.A"
+        },
+        {
+            "name": "IPM NESTLE"
+        },
+        {
+            "name": "IPM POSTE"
+        },
+        {
+            "name": "IPM PROFESSIONS LIBERALES"
+        },
+        {
+            "name": "IPM AND BU RAFET"
+        },
+        {
+            "name": "IPM ROCHETTE"
+        },
+        {
+            "name": "IPM SAGAM SECURITE"
+        },
+        {
+            "name": "IPM SANTE POUR TOUS"
+        },
+        {
+            "name": "IPM S.A.R"
+        },
+        {
+            "name": "IPM SDE"
+        },
+        {
+            "name": "IPM SENAC"
+        },
+        {
+            "name": "IPM SENELEC"
+        },
+        {
+            "name": "IPM SENICO"
+        },
+        {
+            "name": "IPM SENTENAC"
+        },
+        {
+            "name": "IPM SERA"
+        },
+        {
+            "name": "IPM SGBS"
+        },
+        {
+            "name": "IPM SIGELEC"
+        },
+        {
+            "name": "IPM SOBOA"
+        },
+        {
+            "name": "IPM SOCETRA"
+        },
+        {
+            "name": "IPM DES SOCIETES ET INTERMEDIAIRES 20%"
+        },
+        {
+            "name": "IPM DES SOCIETES ET INTERMEDIAIRES 50%"
+        },
+        {
+            "name": "IPM DES SOCIETES ET INTERMED PLAFOND"
+        },
+        {
+            "name": "IPM SOCOCIM"
+        },
+        {
+            "name": "IPM SODEFITEX"
+        },
+        {
+            "name": "IPM SONATEL"
+        },
+        {
+            "name": "IPM SOSETER"
+        },
+        {
+            "name": "IPM PHOSPHATES DE THIES – SSPT"
+        },
+        {
+            "name": "IPM SUNEOR SIEGE"
+        },
+        {
+            "name": "IPM SUNEOR E.I.D"
+        },
+        {
+            "name": "IPM SYPAOA"
+        },
+        {
+            "name": "IPM PHOSPHATES DE THIES"
+        },
+        {
+            "name": "IPM TOP INTER"
+        },
+        {
+            "name": "IPM WEST AFRICA COMMODITIES"
+        },
+        {
+            "name": "IPM WORLD VISION"
+        },
+        {
+            "name": "ALLIANZ SENEGAL ASURANCES"
+        },
+        {
+            "name": "AMSA ASSURANCES"
+        },
+        {
+            "name": "ASKIA ASSURANCES S.A."
+        },
+        {
+            "name": "ASSURANCES LA PROVIDENCE DU SENEGAL S.A."
+        },
+        {
+            "name": "ASSSURANCES LA SECURITE SENEGALAISE"
+        },
+        {
+            "name": "AXA ASSURANCES"
+        },
+        {
+            "name": "HELVETIA ASSURANCES S.A. "
+        },
+        {
+            "name": "LA PREVOYANCE ASSURANCE (PA)"
+        },
+        {
+            "name": "LA SENEGALAISE DE L'ASSURANCE VIE"
+        },
+        {
+            "name": "NOUVELLE SOCIETE INTERAFRICAINE D'ASSURANCES (NSIA)"
+        },
+        {
+            "name": "SAAR SENEGAL S.A."
+        },
+        {
+            "name": "SAHAM ASSURANCE SENEGAL"
+        },
+        {
+            "name": "SALAMA ASURANCES"
+        },
+        {
+            "name": "SALAMA ASURANCES"
+        },
+        {
+            "name": "SOCIETE SENEGALAISE DE REASSURANCES (SEN-RE)"
+        },
+        {
+            "name": "SUNU ASSURANCES VIE SENEGAL"
+        },
+        {
+            "name": "SOCIETE SENEGALAISE DE REPRESENTATION ET DE CONSEIL EN ASSURNCES (SOSERCA)"
+        },
+        {
+            "name": "SONAC"
+        },
+        {
+            "name": "ASSURANCE FACILE"
+        },
+        {
+            "name": "L'AFRICAINE D'ASSURANCES (AA)"
+        },
+        {
+            "name": "SOGERAS ASSURANCES"
+        },
+        {
+            "name": "TERANGA ASSURANCES"
+        },
+        {
+            "name": "ASSURIX SENEGAL"
+        },
+        {
+            "name": "AGENCE CONSEIL INTERNATONAL"
+        },
+        {
+            "name": "WAFA ASSURANCE S.A."
+        },
+        {
+            "name": "CENTRALE INSURANCES BROKER AGENCY (CIBA)"
+        },
+        {
+            "name": "KAPITAL ASSURANCES S.A."
+        },
+        {
+            "name": "GRAS SAVOYE SENEGAL"
+        },
+        {
+            "name": "GECA "
+        },
+        {
+            "name": "WH ASSUREURS CONSEIL"
+        },
+        {
+            "name": "AIBA ASSURANCES"
+        },
+        {
+            "name": "ALFA ASSURANCES"
+        },
+        {
+            "name": "ASCOMA"
+        },
+        {
+            "name": "ASSURLAND"
+        },
+        {
+            "name": "BISSAI ASSURANCES"
+        },
+        {
+            "name": "CGA ASSURANCES"
+        },
+        {
+            "name": "COLINA SENEGAL"
+        },
+        {
+            "name": "COURTAGE D'ASSURANCE CONSEILS (CAC)"
+        },
+        {
+            "name": "FAGGU ASSURANCES"
+        },
+        {
+            "name": "FSSA ASSURANCES"
+        },
+        {
+            "name": "HORIZONS ASSURANCES"
+        },
+        {
+            "name": "ILICO ASSURANCES"
+        },
+        {
+            "name": "JOOKO COURTAGE ASSURANCE"
+        },
+        {
+            "name": "PROASSUR S.A."
+        },
+        {
+            "name": "S2C ASURANCES "
+        },
+        {
+            "name": "SAGCA ASURANCES"
+        },
+        {
+            "name": "SORARAF SENEGAL"
+        },
+        {
+            "name": "UASEN ASURANCES"
+        },
+        {
+            "name": "ZENITH ASURANCES"
+        }
+]

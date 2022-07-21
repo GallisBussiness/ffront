@@ -1,0 +1,457 @@
+﻿ [
+        {
+            "KEY":"Urologue",
+            "SPECIALITES": "Urologie",
+            "DEFINITIONS": "L'urologue est un professionnel de la santé spécialisé dans le diagnostic et le traitement des atteintes congénitales, infectieuses, lithiasiques, traumatiques et tumorales des appareils urinaires masculin et féminin. Il fait entre autres actes médicaux : circoncision, malformations des organes génitaux (urologie de l'enfant), incontinences, prolapsus, cancer de la prostate, cancer de la vessie, Sexualité du couple, infertilité masculine, troubles urinaires, maladies du rein, etc."
+        },
+        {
+            "KEY":"Ophtalmologue",
+            "SPECIALITES": "Ophtalmologie",
+            "DEFINITIONS": "L'ophtalmologue est un professionnel de la santé spécialisé dans les maladies et infections des yeux."
+        },
+        {
+            "KEY":"Andrologue",
+            "SPECIALITES": "Andrologie",
+            "DEFINITIONS": "l'andrologue est un professionnel de la santé spécialiste de la physiologie et de la pathologie de l'appareil génital masculin."
+        },
+        {
+            "KEY":"Anesthesiologue",
+            "SPECIALITES": "Anesthesiologie",
+            "DEFINITIONS": "L'anesthesiste est un professionnel de la santé spécialiste de la suppression des sensations. Il vise à neutraliser la sensation pour permettre une procédure médicale qui autrement serait trop douloureuse."
+        },
+        {
+            "KEY":"Allergologue",
+            "SPECIALITES": "Allergologie",
+            "DEFINITIONS": "L'allergologue est un professionnel de la santé spécialiste de la médecine qui étudie les allergies et leurs traitements."
+        },
+        {
+            "KEY":"Cardiologue",
+            "SPECIALITES": "Cardiologie",
+            "DEFINITIONS": "Le cardiologue est un professionnel de la santé spécialisé dans l'étude de l'appareil cardiovasculaire, sa prévention ainsi qu'au traitement des anomalies et des maladies qui l'affectent."
+        },
+        {
+            "KEY":"Chirurgien-urologique",
+            "SPECIALITES": "Chirurgie urologie",
+            "DEFINITIONS": "Le chirurgien  urologique est un professionnel de la santé spécialisé dans le diagnostic et letraitement des atteintes congénitales, infectieuses, lithiasiques, traumatiques et tumorales des appareils urinaires masculin et féminin et de celles de l'appareil génital masculin. "
+        },
+        {
+            "KEY":"Chirurgien-cardiaque",
+            "SPECIALITES": "Chirurgie cardiaque",
+            "DEFINITIONS": "le chirurgien cardiaque est un professionnel de la santé spécialisé dans le traitement des maladies du cœur, des valves cardiaques et des gros vaisseaux rattachés au cœur."
+        },
+        {
+            "KEY":"Chirurgien-general",
+            "SPECIALITES": "Chirurgie Generale",
+            "DEFINITIONS": "Le chirurgien général est un professionnel de la santé qui pratique des interventions chirurgicales afin de diagnostiquer une maladie, d'enlever des tissus ou des organes atteints, de réparer des traumatismes ou d'assurer le fonctionnement correct et normal d'un organe."
+        },
+        {
+            "KEY":"Chirurgien-pédiatrique",
+            "SPECIALITES": "Chirurgie pediatrique",
+            "DEFINITIONS": "le chirurgien pédiatrique est un professionnel de la santé spécialiste de la chirurgie qui se limite à une tranche d'âge s'étendant de la période prénatale à l'adolescence."
+        },
+        {
+            "KEY":"Chirurgien-thoracique",
+            "SPECIALITES": "Chirurgie thoracique",
+            "DEFINITIONS": " le chirurgien thoracique est un professionnel de la santé spécialiste en chirurgie et dont les champs d’intervention sont le cœur (chirurgie cardiaque) d’une part, et le thorax et les vaisseaux (chirurgie thoracique et vasculaire) d’autre part."
+        },
+        {
+            "KEY":"Chirurgien-vasculaire",
+            "SPECIALITES": "Chirurgie vasculaire",
+            "DEFINITIONS": "le chirurgien vasculaire est un professionnel de la santé spécialisé dans le diagnostic et à la prise en charge des pathologies de tous les vaisseaux (artères et veines) de l'organismes"
+        },
+        {
+            "KEY":"Dentiste",
+            "SPECIALITES": "Dentiste",
+            "DEFINITIONS": "Le dentiste est un professionnel de la santé qui soigne des maladies liées aux dents et aux machoires. Il soulage les douleurs, soigne les abcès et les caries, répare les dents, pose des prothèses..."
+        },
+        {
+            "KEY":"Diététicien",
+            "SPECIALITES": "Diététique",
+            "DEFINITIONS": "Le diététicien est un professionnel de la santé qui s'intéresse à une alimentation riche et équilibrée."
+        },
+        {
+            "KEY":"Neurochirurgien",
+            "SPECIALITES": "Neurochirurgie",
+            "DEFINITIONS": "Le neurochirurgien est un professionnel de la santé spécialisé dans la chirurgie du système nerveux central et du système nerveux périphérique"
+        },
+        {
+            "KEY":"Spécialiste-ORL",
+            "SPECIALITES": "ORL",
+            "DEFINITIONS": "Le spécialiste ORL est un professionnel de la santé qui traite des troubles du nez, de la gorge, de l'oreille, et de la région tête et cou."
+        },
+        {
+            "KEY":"Dermatologue",
+            "SPECIALITES": "Dermatologie",
+            "DEFINITIONS": "le dermatologue est un professionnel de la santé qui s'occupe de la peau, des muqueuses et des phanères."
+        },
+        {
+            "KEY":"Endocrinologue",
+            "SPECIALITES": "Endocrinologie",
+            "DEFINITIONS": "l'endocrinologie est un professionnel de la santé spécialiste dans l'étudie des hormones."
+        },
+        {
+            "KEY":"Gastro-entréologue",
+            "SPECIALITES": "Gastro-entrélogie",
+            "DEFINITIONS": "le gastro-entréologue est un professionnel de la sané qui étudie le système digestif et ses maladies."
+        },
+        {
+            "KEY":"Gynécologue",
+            "SPECIALITES": "Gynécologie",
+            "DEFINITIONS": "Le gynécologue est un professionnel de la santé spécialisé dans la physiologie et les affections du système génital de la femme."
+        },
+        {
+            "KEY":"Hématologue",
+            "SPECIALITES": "Hématologie",
+            "DEFINITIONS": "l'hématologue est un professionnel de la santé spécialisé dans l'étude du sang et de ses maladies."
+        },
+        {
+            "KEY":"Hépatologue",
+            "SPECIALITES": "Hépatologie",
+            "DEFINITIONS": "l'hépatologue est un professionnel de la santé qui étudie les maladies hépatobiliaires, c'est-à-dire les maladies du foie et des voies biliaires et de la rate."
+        },
+        {
+            "KEY":"Medecin-aigue",
+            "SPECIALITES": "Medecine aigue",
+            "DEFINITIONS": "En médecine, aigu désigne une maladie au parcours abrup"
+        },
+        {
+            "KEY":"Medecin-du-travail",
+            "SPECIALITES": "Medecin du travail",
+            "DEFINITIONS": "une spécialité médicale qui concerne la prévention des atteintes à la santé des travailleurs"
+        },
+        {
+            "KEY":"Medecin-général ",
+            "SPECIALITES": "Medecine générale",
+            "DEFINITIONS": "Le médecin général est un professionnel de la santé qui prend en charge le suivi durable"
+        },
+        {
+            "KEY":"Médecin-interne",
+            "SPECIALITES": "Medecine interne",
+            "DEFINITIONS": "La médecine interne est une spécialité médicale. Elle s'intéresse au diagnostic et à la prise en charge globale des maladies de l'adulte"
+        },
+        {
+            "KEY":"Médecin-nucleaire",
+            "SPECIALITES": "Medecine nucleaire",
+            "DEFINITIONS": " la medecine nucléaire est l'ensemble des applications médicales de la radioactivité en médecine."
+        },
+        {
+            "KEY":"Medecin-pailliatif",
+            "SPECIALITES": "Medecine palliative",
+            "DEFINITIONS": "Le medecin pailliatif est un professionnel de la santé qui prévient et  soulage les douleurs physiques, les symptômes inconfortables ou encore la souffrance psychologique."
+        },
+        {
+            "KEY":"Medecin-physique",
+            "SPECIALITES": "Medecine physique",
+            "DEFINITIONS": "une spécialité médicale orientée vers la récupération de capacités fonctionnelles et de qualité de vie des patients atteints de handicap"
+        },
+        {
+            "KEY":"Medecin-preventif",
+            "SPECIALITES": "Medecine preventive",
+            "DEFINITIONS": "Une branche de la médecine consistant à donner des conseils d'hygiène au sens large ainsi qu'au dépistage de maladie"
+        },
+        {
+            "KEY":"Néphrologie",
+            "SPECIALITES": "Néphrologie",
+            "DEFINITIONS": " le néphrologue est un professionnel de la santé  visant à prévenir, diagnostiquer et soigner les maladies des reins"
+        },
+        {
+            "KEY":"Neurologie",
+            "SPECIALITES": "Neurologie",
+            "DEFINITIONS": "le neurologue est un professionnel de la santé qui étudie l'ensemble des maladies du système nerveux et en particulier du cerveau"
+        },
+        {
+            "KEY":"Odontologie",
+            "SPECIALITES": "Odontologie",
+            "DEFINITIONS": " l'odentologue est un professionnel de la santé qui'étudie l'organe dentaire, des maxillaires et des tissus attenants."
+        },
+        {
+            "KEY":"Oncologie",
+            "SPECIALITES": "Oncologie",
+            "DEFINITIONS": "l'ocnologue est un professionnel de la santé qui étudie diagnostique  et traite les  cancers."
+        },
+        {
+            "KEY":"Obstétrique",
+            "SPECIALITES": "Obstétrique",
+            "DEFINITIONS": "l'obstétrique est un professionnel de la santé  qui étudie la grossesse et de l'accouchement."
+        },
+        {
+            "KEY":"Orthopédiste",
+            "SPECIALITES": "Orthopédie",
+            "DEFINITIONS": " l'orthopédiste est un professionnel de la santé qui prévient  les affections de l'appareil locomoteur, qui recouvrent les déformations et les malformations des os, des articulations, des muscles, des tendons et des nerfs"
+        },
+        {
+            "KEY":"Oto-rhino-laryngologue",
+            "SPECIALITES": "Oto-rhino-laryngologie",
+            "DEFINITIONS": "Oto-rhino-laryngologue est un professionnel de la santé qui diagnostique traite des troubles du nez, de la gorge, de l'oreille, et de la région tête et cou."
+        },
+        {
+            "KEY":"Pédiatre",
+            "SPECIALITES": "Pédiatrie",
+            "DEFINITIONS": "le pédiatre est un professionnel de la santé qui étudie le développement psycho-moteur et physiologique normal de l'enfant"
+        },
+        {
+            "KEY":"Pneumologue",
+            "SPECIALITES": "Pneumologie",
+            "DEFINITIONS": "le pneumologue est un professionnel de la santé qui s'intéresse au fonctionnement de l'appareil respiratoire - poumons, bronches, plèvre et trachée – ainsi qu'à ses maladies"
+        },
+        {
+            "KEY":"Psychiatre",
+            "SPECIALITES": "Psychiatrie",
+            "DEFINITIONS": "La psychiatre est un professionnel de la santé qui  traite de la maladie mentale"
+        },
+        {
+            "KEY":"Radiologue",
+            "SPECIALITES": "Radiologie",
+            "DEFINITIONS": " le radiologue est un professionnel de la santé qui étudie  l'ensemble des modalités diagnostiques et thérapeutiques utilisant les rayons X, ou plus généralement utilisant des rayonnements"
+        },
+        {
+            "KEY":"Radiothérapeute",
+            "SPECIALITES": "Radiothérapie",
+            "DEFINITIONS": "le radiothérapeute est un professionnel de la santé qui utilise des radiations pour détruire les cellules cancéreuses en bloquant leur capacité à se multiplier."
+        },
+        {
+            "KEY":"Rhumatologue",
+            "SPECIALITES": "Rhumatologie",
+            "DEFINITIONS": "le rhumatologue est un professionnel de la santé quis'intéresse au diagnostic et au traitement des maladies de l'appareil locomoteur, c'est-à-dire des maladies des os, des articulations, des muscles, des tendons et des ligaments"
+        },
+        {
+            "KEY":"Gynécologue-obstétricien",
+            "SPECIALITES": "Gynécologue médical et obstétrique",
+            "DEFINITIONS": "Le médecin gynécologue-obstétricien est un professionnel de la santé qui étudie le  fonctionnement de la femme, de son appareil génital, de la grossesse et de l'accouchement et de ses suites."
+        },
+        {
+            "KEY":"Ostéopathe",
+            "SPECIALITES": "Ostéopathe",
+            "DEFINITIONS": "L'ostéopathe  est une est un profession de la santé qui qui repose sur l'idée que des manipulations manuelles du système musculosquelettique et des techniques de relâchement myofascial"
+        },
+        {
+            "KEY":"Masseur-kinésithérapeute",
+            "SPECIALITES": "Masseur-kinésithérapeute",
+            "DEFINITIONS": "le masseur-kinésithérapeute est un professionnel de la santé qui emploie le mouvement dans le but de renforcer, maintenir ou rétablir les capacités fonctionnelles"
+        },
+        {
+            "KEY":"Podologue",
+            "SPECIALITES": "Pédicure-podologue",
+            "DEFINITIONS": "Le podologue ou pédicure-podologue est un professionnel de la santé qui  traite les affections épidermiques et unguéales du pied ainsi que ses troubles statiques et dynamiques."
+        },
+        {
+            "KEY":"Sage-femme",
+            "SPECIALITES": "Sage femme",
+            "DEFINITIONS": "La sage-femme ou le maïeuticien est un professionnel de la santé qui accompagnant la femme enceinte avant, pendant et après l'accouchement"
+        },
+        {
+            "KEY":"Stomatologue",
+            "SPECIALITES": "Stomatologie",
+            "DEFINITIONS": "La stomatologie, au même titre que l'odontologie, est une science médico-chirurgicale couvrant l'étude de la cavité buccale, dont les dents et les tissus attenants"
+        },
+        {
+            "KEY":"Psychologue",
+            "SPECIALITES": "Psychologie",
+            "DEFINITIONS": "La psychologue est un professionnel de la santé  qui s'intéresse à l'étude du corpus des connaissances sur les faits psychiques, des comportements et des processus mentaux"
+        },
+        {
+            "KEY":"Gastro-entérologue",
+            "SPECIALITES": "Gastro-entérologue et hépatologue",
+            "DEFINITIONS": "le gastro-entérologue et hépatologue est un professionnel de la santé qui étudie les organes de la digestion, leurs fonctionnements, leurs maladies et les moyens de les soigner. Les organes de la digestion sont composés du tube digestif "
+        },
+        {
+            "KEY":"Acupuncteur",
+            "SPECIALITES": "Acupuncteur",
+            "DEFINITIONS": "L'acupuncture consiste en une stimulation de zones précises de l'épiderme : les « points d’acupuncture »."
+        },
+        {
+            "KEY":"Addictologue",
+            "SPECIALITES": "Addictologue",
+            "DEFINITIONS": "L'addictologie est l'étude et le soin des addictions, c'est-à-dire de la dépendance physiologique et psychologique à une substance ou à un comportement."
+        },
+        {
+            "KEY":"Anatomo-cyto-pathologiste",
+            "SPECIALITES": "Anatomo-cyto-pathologiste",
+            "DEFINITIONS": "Anatomo-cyto-pathologiste est un professionnel de la santé  qui étudie les tissus, les cellules, et leurs anomalies, afin de contribuer au diagnostic des maladies, et notamment des cancers."
+        },
+        {
+            "KEY":"Anesthésiste",
+            "SPECIALITES": "Anesthésiste",
+            "DEFINITIONS": "L’anesthésieste est un professionnel de la santé  qui s'interesse la suppression des sensations. Elle vise à permettre une procédure médicale qui autrement serait trop douloureuse"
+        },
+        {
+            "KEY":"Angiologue",
+            "SPECIALITES": "Angiologue",
+            "DEFINITIONS": "l'antigologue est un professionnel de la santé  qui etudie  pathologies et les soins aux vaisseaux sanguins quelle qu'en soit leur nature ou lymphatiques"
+        },
+        {
+            "KEY": "Audioprothésiste",
+            "SPECIALITES": "Audioprothésiste",
+            "DEFINITIONS": "l'audioprothésiste est un professionnel de la santé  qui conçoit, réalise et adapte des prothèses auditives destinées à des patients malentendants ou sourds."
+        },
+        {
+            "KEY": "Biologiste-des-agents-infectieux",
+            "SPECIALITES": "Biologiste des agents infectieux",
+            "DEFINITIONS": "Un agent infectieux est un agent biologique pathogène responsable d'une maladie infectieuse"
+        },
+        {
+            "KEY":"Cancérologue",
+            "SPECIALITES": "Cancérologue",
+            "DEFINITIONS": "un canncréologue est un professionnel de la santé  qui  traite les cancers"
+        },
+        {
+            "KEY":"Chiropracteur",
+            "SPECIALITES": "Chiropracteur",
+            "DEFINITIONS": "le chiropracteur est un professionnel de la santé  qui prend en charge les différentes pathologies mécaniques du corps."
+        },
+        {
+            "KEY":"Cytogénéticien",
+            "SPECIALITES": "Cytogénéticien",
+            "DEFINITIONS": "le cytogénéticien est un professionnel de la santé  qui étudie les chromosomes, à l'état normal ou pathologique, à l'aide de techniques cytologiques"
+        },
+        {
+            "KEY":"Échographiste",
+            "SPECIALITES": "Échographiste",
+            "DEFINITIONS": "Un échographiste est un professionnel de la santé spécialisé dans l'utilisation d'appareils d'imagerie à ultrasons pour produire des images diagnostiques, des scans, des vidéos ou des volumes tridimensionnels de données anatomiques et diagnostique"
+        },
+        {
+            "KEY":"Épithésiste",
+            "SPECIALITES": "Épithésiste",
+            "DEFINITIONS": "l'épithésiste est un professionnel de la santé  qui a pour fonction de couvrir et remplacer une partie manquante du visage et du cou. Les épithèses, permettent aux patients de retrouver l'harmonie du visage altéré"
+        },
+        {
+            "KEY":"Ergothérapeute",
+            "SPECIALITES": "Ergothérapeute",
+            "DEFINITIONS": "L'ergothérapie est une profession de la santé visant la promotion de la santé et du bien-être des individus et des communautés,"
+        },
+        {
+            "KEY":"Généticien",
+            "SPECIALITES": "Généticien",
+            "DEFINITIONS": "Un généticien est un biologiste qui étudie la génétique, la science des gènes, l'hérédité et la variation des organismes."
+        },
+        {
+            "KEY":"Gériatre",
+            "SPECIALITES": "Gériatre",
+            "DEFINITIONS": " un gériatre est un professionnel de la santé  qui s'interesse à  la médecine de la vieillesse."
+        },
+        {
+            "KEY":"Immunologue",
+            "SPECIALITES": "Immunologue",
+            "DEFINITIONS": "l'immunologue est un professionnel de la santé  qui étudie l'ensemble des mécanismes de défense de l'organisme contre les antigènes (agents pathogènes extérieurs)."
+        },
+        {
+            "KEY":"Infectiologue",
+            "SPECIALITES": "Infectiologue",
+            "DEFINITIONS": "L'infectiologue est un professionnel de la santé  qui assure la prise en charge des patients atteints d'infections bactériennes, virales, fongiques ou parasitaires, notamment les plus complexes et difficiles à traiter, et les maladies infectieuses émergentes."
+        },
+        {
+            "KEY":"Infirmier",
+            "SPECIALITES": "Infirmier",
+            "DEFINITIONS": "un infirmier est un professionnel de la santé  quisoigne des malades et s'en occupe, sous la direction des médecins."
+        },
+        {
+            "KEY":"Médecin-morphologue-et-anti-âge",
+            "SPECIALITES": "Médecin morphologue et anti-âge",
+            "DEFINITIONS": "un médecin morphologique et anti-âge est un professionnel de la santé  qui qui se distingue par une prise en charge globale pour aider le patient à mieux vivre en bonne santé."
+        },
+        {
+            "KEY":"Médecin-réanimateur",
+            "SPECIALITES": "Médecin réanimateur",
+            "DEFINITIONS": "Un médecin anesthésiste-réanimateur ou médecin spécialiste en anesthésiologie est un professionnel de la santé  le plus souvent hospitalier responsable des actes d'anesthésie (pré et per-opératoire) et de réanimation"
+        },
+        {
+            "KEY":"Médecin-urgentiste",
+            "SPECIALITES": "Médecin urgentiste",
+            "DEFINITIONS": "Un urgentiste est un professionnel de la santé  qui est spécialisé  en médecine d'urgence"
+        },
+        {
+            "KEY":"Néonatologue",
+            "SPECIALITES": "Néonatologie",
+            "DEFINITIONS": "un néonatologue est une spécialiste de la néonatologie qui est est une branche de la médecine, plus précisément de la pédiatrie, qui s'intéresse au nouveau-né normal et pathologique ainsi qu'au foetus et au devenir des enfants nés prématurément"
+        },
+        {
+            "KEY":"Néphrologue",
+            "SPECIALITES": "Néphrologue",
+            "DEFINITIONS": "le néphrologue  est un professionnel de la santé  qui prévient, diagnostique et soigne les maladies des reins."
+        },
+        {
+            "KEY":"Neuro-pathologiste",
+            "SPECIALITES": "Neuro-pathologiste",
+            "DEFINITIONS": "La neuropathologue est un professionnel de la santé  qui étudie les altérations morphologiques macroscopiques et microscopiques tissulaires et cellulaires observées dans les maladies du système nerveux central et périphérique"
+        },
+        {
+            "KEY":"Neuro-psychiatre",
+            "SPECIALITES": "Neuro-psychiatre",
+            "DEFINITIONS": "Neuro-psychiatre est un professionnel de la santé  qui prend en charge les troubles psychiques liés à des maladies neurologiques"
+        },
+        {
+            "KEY":"Oculariste",
+            "SPECIALITES": "oculariste",
+            "DEFINITIONS": "l'oculariste est un professionnel de la santé  fabrique de prothèses oculaires."
+        },
+        {
+            "KEY":"Onco-hématologue",
+            "SPECIALITES": "Onco-hématologue",
+            "DEFINITIONS": "L'onco-hématologue est un professionnel de la santé qui étudie et traite les maladies de la moelle osseuse, du sang et du système lymphatique tels que les leucémies, les syndromes myéloprolifératifs, les syndromes lymphoprolifératifs ou les myélomes."
+        },
+        {
+            "KEY":"Oncologue-médical",
+            "SPECIALITES": "Oncologue médical",
+            "DEFINITIONS": "oncologue médical est un professionnel de la santé spécialisé des traitements des cancers à l'aide de médicaments, appelé aussi chimiothérapeute."
+        },
+        {
+            "KEY":"Onco-radiothérapeute",
+            "SPECIALITES": "Onco-radiothérapeute",
+            "DEFINITIONS": " L'oncologue-radiothérapeute est un professionnel de la santé  qui élabore des traitements par des rayons ainsi que par des médicaments. par rapport au tumeur du sang"
+        },
+        {
+            "KEY":"ORL-Chirurgien-de-la-face-et-du-cou",
+            "SPECIALITES": "ORL - Chirurgien de la face et du cou",
+            "DEFINITIONS": "ORL - Chirurgien de la face et du cou est un professionnel de la santé  traitant les maladies de la tête et du cou et spécialement celles de l'oreille, du nez et de la gorge."
+        },
+        {
+            "KEY":"Orthodontiste",
+            "SPECIALITES": "Orthodontiste",
+            "DEFINITIONS": "l'orthodentiste est un professionnel de la santé  voué à la correction des mauvaises postures des mâchoires et des dents afin d'optimiser l'équilibre postural entre les structures osseuses, l'occlusion, ainsi que le développement des bases osseuses dans un but fonctionnel et esthétique"
+        },
+        {
+            "KEY":"Orthopédiste-orthésiste",
+            "SPECIALITES": "Orthopédiste-orthésiste",
+            "DEFINITIONS": "L'orthopédiste orthésiste podologiste autrefois appelé bandagiste est un professionnel de la santé  inscrit au code de la santé publique, technicien de l'appareillage externe à but thérapeutique : i"
+        },
+        {
+            "KEY":"Orthoprothésiste",
+            "SPECIALITES": "Orthoprothésiste",
+            "DEFINITIONS": "L'orthoprothésiste est un professionnel de santé qui  conçoit et réalise sur moulage des prothèses et des orthèses"
+        },
+        {
+            "KEY":"Orthoptiste",
+            "SPECIALITES": "Orthoptiste",
+            "DEFINITIONS": "l'orthoptiste est un professionnel de la santé  spécialisé dans la rééducation des troubles de la vision binoculaire, dans lesquels les axes des mouvements des yeux ne sont pas parallèles "
+        },
+        {
+            "KEY":"Phlébologue",
+            "SPECIALITES": "Phlébologue",
+            "DEFINITIONS": "le phlébologue est un professionnel de la santé Spécialié sur  les maladies des veines."
+        },
+        {
+            "KEY":"Podo-orthésiste",
+            "SPECIALITES": "Podo-orthésiste",
+            "DEFINITIONS": "Le podo-orthésiste est un professionnel de la santé  spécialiste de l'appareillage du pied. Il facilite la marche au quotidien, en concevant et en fabriquant des chaussures, des semelles et des prothèses orthopédiques sur mesure."
+        },
+        {
+            "KEY":"Psychomotricien",
+            "SPECIALITES": "Psychomotricien",
+            "DEFINITIONS": "le psychomotricien est un professionnel de la santé  chargé de la rééducation d'enfants atteints de troubles psychomoteurs."
+        },
+        {
+            "KEY":"Psychothérapeute",
+            "SPECIALITES": "Psychothérapeute",
+            "DEFINITIONS": "Le psychothérapeuteest un professionnel de la santé qui  s'occupe des  soins ou accompagne une ou plusieurs autres personnes souffrant de problèmes psychologiques,"
+        },
+        {
+            "KEY":"Sage-femme-échographiste",
+            "SPECIALITES": "Sage-femme échographiste",
+            "DEFINITIONS": "la sage-femme est un professionnel de la santé suit les grossesses physiologiques. Son champ d'action dans le domaine de l'échographie obstétricale est donc de l'ordre de l'échographie de dépistage"
+        },
+        {
+            "KEY":"Technicien-de-biologie-médicale",
+            "SPECIALITES": "Technicien de biologie médicale",
+            "DEFINITIONS": "Le technicien d'analyse en biologie médicale est un professionnel de la santé chargé de réaliser les examens de biologie médicale permettant au médecin de confirmer un diagnostic ou de déceler une maladie"
+        }
+    ]
